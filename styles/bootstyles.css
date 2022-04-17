@@ -1,0 +1,37 @@
+/* Lindy Madsen Last Edited: 4/16/22*/
+
+.footer{
+    bottom: 5px;
+    height: 25px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    position:fixed;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .navbar{
+      float:right;
+  }
+
+body{
+    background-color: grey;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+
+.border{
+    border-top:solid 5px black;
+    border-bottom:solid 5px black;
+    border-left:solid 5px black;
+    border-right:solid 5px black;
+}
